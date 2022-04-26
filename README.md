@@ -13,7 +13,6 @@
 <br>
 
 ## Skills
-<hr>
 
 <p align="center">
     <img src="images/icons-skills/csharp.svg" width="55px"></img>
@@ -27,7 +26,6 @@
 </p>
 
 ## Tools and services
-<hr>
 
 <p align="center">
     <img src="images/tools/vscode.png" width="55px">
@@ -40,7 +38,6 @@
 </p>
 
 ## Stats on GitHub!
-<hr>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johanVillamizarCode&theme=highcontrast&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api?username=johanVillamizarCode&theme=highcontrast&show_icons=true)
