@@ -39,7 +39,7 @@
     <img src="images/tools/aws.png" width="55px"></img>
 </p>
 
-## Stats on GitHub
+## Stats on GitHub!
 <hr>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johanVillamizarCode&theme=highcontrast&show_icons=true)
