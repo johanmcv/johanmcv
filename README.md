@@ -19,7 +19,7 @@
     <img src="images/icons-skills/php.png" width="55px"></img>
     <img src="images/icons-skills/ajax.png" width="55px"></img>
     <img src="images/icons-skills/html.png" width="55px"></img>
-    <img src="images/icons-skills/javascript.png" width="55px"></img>
+    <!--<img src="images/icons-skills/javascript.png" width="55px"></img>-->
     <img src="images/icons-skills/lua.png" width="55px"></img>
     <img src="images/icons-skills/mysql.png" width="55px"></img>
     <img src="images/icons-skills/sm.png" width="55px"></img>
